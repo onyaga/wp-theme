@@ -1,2 +1,2 @@
 # wp-theme
-WordPress用のテーマ作成用リポジトリ
+WordPressテーマ作成用リポジトリ
